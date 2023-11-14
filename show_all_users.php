@@ -9,7 +9,7 @@ $result = $conn->query($sql);
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="all_users.css">
+    <link rel="stylesheet" href="css/all_users.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Basic Banking System - All Users</title>
 </head>
