@@ -12,45 +12,6 @@ $result = $conn->query($sql);
     <link rel="stylesheet" href="all_users.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Basic Banking System - All Users</title>
-    <style>
-    .logo {
-    position: relative;
-    left: 7%;
-    padding-top: 3%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 25px;
-}
-
-#logo-p1 {
-    color: white;
-    font-weight: bold;
-}
-
-#logo-p2 {
-    color: rgb(233, 179, 41);
-    font-weight: bold;
-}
-.links {
-    position: relative;
-    left: 45%;
-    margin-top: -1.2%;
-}
-
-.links a {
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size:1.7rem;
-    color: white;
-    margin-left: 3%;
-    font-weight: bold;
-}
-
-.links > a:hover {
-    color: greenyellow;
-}
-
-
-</style>
 </head>
 
 <body>
