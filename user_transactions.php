@@ -47,12 +47,6 @@ if (isset($_GET['id'])) {
     <title>
         <?php echo $fName . " " . $lName . " History" ?>
     </title>
-    <style>
-          body {
-    background: rgb(47, 47, 47);
-}
-
-    </style>
 </head>
 
 <body>
